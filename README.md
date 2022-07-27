@@ -1,2 +1,2 @@
-# ops-challenges
-A collection of my ops challenges from codefellows
+# Table of Contents
+- [challenge 02](helloworld.sh)
