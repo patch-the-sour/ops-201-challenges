@@ -7,3 +7,5 @@
 - [challenge 07](grep-lshw.sh)
 - [challenge 08](robo.sh)
 - [challenge 09](logretrieval.sh)
+- [challenge 10](.psi)
+- [challenge 11](automatedendpoint.psi)
