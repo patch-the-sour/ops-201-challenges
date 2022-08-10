@@ -1,5 +1,5 @@
 # Purpose: Retrieves the IPv4 from a created text doc on the desktop and deletes
-# the text doc while showing the IPv4 address in the cmd prompt
+# the text doc. Also show IPv4.
 
 # Main
 # Function:
