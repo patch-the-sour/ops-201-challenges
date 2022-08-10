@@ -9,3 +9,4 @@
 - [challenge 09](logretrieval.sh)
 - [challenge 10](automationprt1.ps1)
 - [challenge 11](automatedendpoint.ps1)
+- [challenge 12](
