@@ -10,3 +10,4 @@
 - [challenge 10](automationprt1.ps1)
 - [challenge 11](automatedendpoint.ps1)
 - [challenge 12](ipinfoautomation.ps1)
+- [challenge 13](domaininfo.ps1)
