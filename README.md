@@ -14,17 +14,24 @@
 
 
 # About This Repo
-
+ 
 ### What is this repo all about?
+  This Repo is about the carious scripts we learned in 201
+  
+### Why are you learning these skills?
+I am learning these new skills to hopefully become a cyber security proffessional in th enear future
 
-## Why are you learning these skills?
+### What fundamental concepts did you learn in Ops 201?
+I learned how to make things a little easier and how to really talk to my computer.
 
-## What fundamental concepts did you learn in Ops 201?
+### What was your favorite Ops Challenge assignment and why?
+I really dig the automation aspects of this because frankly Im lazy lol 
 
-## What was your favorite Ops Challenge assignment and why?
+### How can these examples of shell scripting be applied to the workplace?
+They can lighten the work load. They can help find security breeches and even help prevent them.
 
-## How can these examples of shell scripting be applied to the workplace?
+### What scripts would you continue to improve if you had the time?
+Honestly I would liek to improve on them all. You're never to good at something to stop practicing. Especially in this field.
 
-## What scripts would you continue to improve if you had the time?
-
-## What aspect of your shell scripting skillset do you hope to improve next?
+### What aspect of your shell scripting skillset do you hope to improve next?
+I hope to improve on starting scripts. I still have issues figuring out how I want to initialize a function.
