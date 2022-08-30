@@ -19,7 +19,7 @@
   This Repo is about the carious scripts we learned in 201
   
 ### Why are you learning these skills?
-I am learning these new skills to hopefully become a cyber security proffessional in th enear future
+I am learning these new skills to become a cyber security proffessional in the near future
 
 ### What fundamental concepts did you learn in Ops 201?
 I learned how to make things a little easier and how to really talk to my computer.
