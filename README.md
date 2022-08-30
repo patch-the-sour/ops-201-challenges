@@ -31,7 +31,7 @@ I really dig the automation aspects of this because frankly Im lazy lol
 They can lighten the work load. They can help find security breeches and even help prevent them.
 
 ### What scripts would you continue to improve if you had the time?
-Honestly I would liek to improve on them all. You're never to good at something to stop practicing. Especially in this field.
+Honestly I would like to improve on them all. You're never to good at something to stop practicing. Especially in this field.
 
 ### What aspect of your shell scripting skillset do you hope to improve next?
 I hope to improve on starting scripts. I still have issues figuring out how I want to initialize a function.
